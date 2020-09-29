@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "gpsc-internal-client-side-solution",
+    "id": "fa5b1435-da99-4615-9ffd-101a02ad1850",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/gpsc-internal.sppkg"
+  }
+}
